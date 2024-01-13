@@ -1,0 +1,28 @@
+.HabitContainer{
+    background:url("https://startinfinity.s3.us-east-2.amazonaws.com/production/blog/post/5/main/1SvzKctRCi8bwB0QPdOZkBP0pRhsOqZpl0wjs6y0.png");
+    height: 100vh;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+    justify-content: center;
+    overflow: scroll;
+    padding-top: 10px;
+  
+}
+
+.Navbar{
+    height: fit-content;
+    width: 100vw;
+    background-color:white;
+    color: white;
+    border:whitesmoke 5px solid;
+}
+.nav{
+    border-radius: 10px;
+  }
+.nav:hover{
+  transform: scale(1.5);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) ;
+}

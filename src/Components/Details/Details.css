@@ -1,0 +1,46 @@
+.View{
+    height: 100vh;
+    background-color:rgb(247, 206, 129);
+    
+}
+
+.habitsView{
+position: absolute;
+top: 150px;
+background-color: white;
+display: flex;
+flex-wrap: wrap;
+margin:0px;
+border: 5px solid black;
+border-radius: 30px;
+
+
+}
+
+.header{
+    position: relative;
+    margin: 0%;
+    background-color:rgb(111, 107, 107);
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-family: Verdana, sans-serif;
+    border: gray 10px solid;
+    
+
+}
+
+.rightcard{
+    display: flex;
+    position: absolute;
+    color: black;
+    right: 100px;
+  
+ 
+}
+
+.rightcard h4{
+    margin: 20px;
+    
+}

@@ -1,0 +1,67 @@
+.Right{
+    height:400px;
+    width: 400px;
+    border:pink 10 px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-self: center;
+    margin-left: 550px;
+
+}
+.login-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-top: 50px;
+  
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 500px;
+   
+ 
+
+  }
+   
+
+.Forgot{
+    margin-right:190px;
+    text-align: end;
+}
+.sb{
+  background-color:rgb(191, 64, 191);
+  width: 270px;
+  padding: 10px;
+  color: white;
+  border-radius: 50px;
+  font-size: medium;
+  margin-left:110px;
+  
+}
+.slide{
+    border-radius: 20px;
+    border: 2.5px solid white;
+}
+.Welcome{
+   
+   align-self: center;
+   margin-bottom: 50px;
+   margin-left:-40px;
+   width:500px;
+   background-color:rgb(191, 64, 191) ; 
+   color: white;
+   height: fit-content;
+   padding: 20px;
+   font-size: large;
+   border-top-right-radius: 40px  ;
+   border-bottom-right-radius: 40px;
+
+}
+
+
+.MainLog{
+    height: 100vh;
+    width: 100vw;
+    background:url("https://hashstudioz.com/blog/wp-content/uploads/2020/02/All-You-Need-To-Know-For-Appointment-Booking-Marketplace-Like-Practo-1200x630.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
